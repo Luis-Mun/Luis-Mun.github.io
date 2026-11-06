@@ -176,3 +176,7 @@ a {
   outline: 3px solid #f2a93b;
   outline-offset: 2px;
 }
+
+.draft-link {
+  margin: 1rem 0 0;
+}
